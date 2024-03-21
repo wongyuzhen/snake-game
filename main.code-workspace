@@ -1,9 +1,5 @@
 {
-	"folders": [
-		{
-			"path": "."
-		}
-	],
+	"folders": [],
 	"settings": {
 		"files.associations": {
 			"raylib.h": "c",
